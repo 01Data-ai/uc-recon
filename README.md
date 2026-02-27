@@ -4,7 +4,7 @@
 
 UC Recon reads your codebase like a senior engineer — then hands you shareable Markdown reports with file:line evidence for every finding.
 
-→ **[View sample report pack + free download](https://01data.ai/uc-recon/)**
+→ **[View sample report pack + free download](https://01data.ai/uc-go/reports/)**
 
 ---
 
